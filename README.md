@@ -7,17 +7,17 @@
 
 ## Project Setup
 
-Run the following commands if this is your first time cloning the repository from GitHub.
+Run this command if this is your first time cloning the repository from GitHub.
 
 ```
 npm install
 ```
 
-These commands only need to be run once.
+The command only needs to be run once.
 
 ## To View the Project
 
-Run these commands each time you reopen the project.
+Run this command each time you reopen the project.
 
 ```
 npm run dev
