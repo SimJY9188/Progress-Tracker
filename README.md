@@ -5,7 +5,7 @@
 - Tailwind CSS
 - Local Storage
 
-## First Time Cloning
+## Project Setup
 
 Run the following commands if this is your first time cloning the repository from GitHub.
 
