@@ -21,7 +21,7 @@ function ProgressTracker () {
         if (!loadedList) return;
 
         setOverallProgress(findOverallProgress(dsaList));
-        console.log(dsaList);
+        // console.log(dsaList);
     }, [dsaList, loadedList]);
 
     const updateListFunction = (index, indexOfSub) => {
